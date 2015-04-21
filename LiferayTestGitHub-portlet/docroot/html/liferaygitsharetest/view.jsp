@@ -1,5 +1,3 @@
-<%@ taglib uri="http://java.sun.com/portlet_2_0" prefix="portlet" %>
+<%@include file="init.jsp" %>
 
-<portlet:defineObjects />
-
-This is the <b>Liferay Git Share Test</b> portlet in View mode.
+This is a sample portlet to test git hub with liferay.
